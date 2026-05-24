@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mach-O DeinBR DecFF Deobf"
+  short_description: "O-LLVM style Mach-O deobfuscation workflow"
+  default_prompt: "Use $macho-deinbr-decff-deobf to deobfuscate the function at a given Mach-O address through indirect branch removal, CFF removal, and BCF cleanup."
