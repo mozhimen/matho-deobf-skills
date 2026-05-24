@@ -1,4 +1,4 @@
-# matho-deinbr-decff-deobf-skills
+# matho-deobf-skills
 
 Codex skills for ARM64 Mach-O function-level deobfuscation, focused on O-LLVM/Hikari-style protection:
 
